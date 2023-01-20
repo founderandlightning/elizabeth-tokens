@@ -1,2 +1,1 @@
-"# elizabeth-tokens" 
-"# elizabeth-tokens" 
+Figma Tokens for Elizabeth's Smile
